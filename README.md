@@ -36,5 +36,5 @@
 📁 Repositório: https://github.com/muriloalvesx/santander-java-bootcamp-2024-RESTfulAPI
 
 <div style="display: flex"><br/>
-<img align="center"  alt="santander"src="https://github.com/muriloalvesx/santander-java-bootcamp-2024-RESTfulAPI/assets/153781890/c72a6d59-4de3-4f36-a0fb-61329b75c1cb" width="460px"/>
-<img align="center" alt="db"src="https://github.com/muriloalvesx/santander-java-bootcamp-2024-RESTfulAPI/assets/153781890/190c4858-18a5-4a15-9152-c4ea6b8de1d6" width="330px"/>
+<img align="center"  alt="santander"src="https://github.com/muriloalvesx/santander-java-bootcamp-2024-RESTfulAPI/assets/153781890/c72a6d59-4de3-4f36-a0fb-61329b75c1cb" width="470px"/>
+<img align="center" alt="db"src="https://github.com/muriloalvesx/santander-java-bootcamp-2024-RESTfulAPI/assets/153781890/190c4858-18a5-4a15-9152-c4ea6b8de1d6" width="340px"/>
